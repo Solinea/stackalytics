@@ -5939,12 +5939,12 @@
             "launchpad_id": "ken-pepple",
             "companies": [
                 {
-                    "company_name": "*independent",
+                    "company_name": "Solinea",
                     "end_date": null
                 }
             ],
             "user_name": "Ken Pepple",
-            "emails": ["ken.pepple@cloudtp.com", "ken@pepple.info", "ken.pepple@rabbityard.com", "ken.pepple@gmail.com"]
+            "emails": ["ken.pepple@cloudtp.com", "ken@pepple.info", "ken.pepple@rabbityard.com", "ken.pepple@gmail.com", "ken.pepple@solinea.com"]
         },
         {
             "launchpad_id":"kencjohnston",
